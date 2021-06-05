@@ -16,7 +16,7 @@ router.get('/', helpers.loginRequired, function(req, res) {
     }, function(err, results) {
       res.render(
         'notes/list',
-        {title: 'All notes (' + results.length + ')', notes: results}
+        {title: 'All notes Count (' + results.length + ')', notes: results}
       );
     });
   })

@@ -1,0 +1,3 @@
+C:\Users\Admin\Downloads\notejam-master\notejam-master\express\notejam\obj\Debug\FromExistingCode1.njsprojAssemblyReference.cache
+C:\Users\Admin\Downloads\notejam-master\notejam-master\express\notejam\obj\Debug\FromExistingCode1.njsproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\notejam-master\notejam-master\express\notejam\bin\Microsoft.NodejsTools.WebRole.dll
